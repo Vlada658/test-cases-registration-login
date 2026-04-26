@@ -20,3 +20,5 @@
 - **ID2 — User Login**  👉https://rusau.kaiten.ru/p/d/1c04eafd-86f6-4a21-85cd-1fbf8d3be706
 - **ID3 — User Logout**  👉https://rusau.kaiten.ru/p/d/1f464f17-8de7-4f54-992c-11e9fa5fd646
 - **ID4 — Authorization Check before Accessing Functionality**  👉https://rusau.kaiten.ru/p/d/d440e1db-3645-48f3-8510-686704dcf09c
+
+Результат: https://docs.google.com/spreadsheets/d/1jsiCqlt_VvAzBRO70tBU1WXk6VPXiBB4JlMID1-HsZ0/edit?usp=sharing
